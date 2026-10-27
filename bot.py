@@ -8,8 +8,8 @@ import json
 import time
 
 # ----------------- ENVIRONMENT VARIABLES -----------------
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID_ENV = os.getenv("OWNER_ID")
+BOT_TOKEN = os.getenv("8852649187:AAFPVVu2ahCLEayAhxo8NI3GQo5gtjScP9c")
+OWNER_ID_ENV = os.getenv("8607461107")
 
 if not BOT_TOKEN:
     sys.exit("[CRITICAL ERROR] 'BOT_TOKEN' environment variable is missing! Please configure it in Railway.")
